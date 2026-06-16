@@ -29,7 +29,7 @@ Manuel Huebner, Nürnberg, Germany
 
 ---
 
-*NeoRain v1.0.3 — com.neorain.neorain*
+*NeoRain v1.0.4 — com.neorain.neorain*
 
 ---
 
